@@ -15,3 +15,9 @@ h2 {
     text-align: center;
     text-shadow: #252525;
 }
+
+span {
+    background-color: white;
+    color: #252525;
+    width: 100px;
+}
